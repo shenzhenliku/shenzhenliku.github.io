@@ -1,7 +1,25 @@
+language: node_js
+cache:
+  directories:
+    - ~/.npm
+notifications:
+  email:
+    recipients:
+      - michael@baselinesoftware.io
+    on_success: always
+    on_failure: always
+node_js:
+  - '9'
+git:
+  depth: 3
+script:
+  - yarn build
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN # Set in the se ttings page of your repository, as a secure variable
-  keep_history: true
+  skip-cleanup: true
+  keep-history: true
+  github-token: $GITHUB_TOKEN
+  local-dir: public
+  target-branch: master
   on:
-    branch: master
+    branch: develop
