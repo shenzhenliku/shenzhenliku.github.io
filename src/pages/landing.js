@@ -45,10 +45,10 @@ const Landing = props => (
                 <h3>Full Stack Developer</h3>
               </header>
               <p>
-                Are you interested in being able to take a feature from mockups
-                all the way to production? If so, this may be the job for you.
-                Some front end or backend experience is required but a desire to
-                learn and gain valuable experience in both is most important.
+                Are you interested in taking a feature from mockups to
+                production? If so, this may be the job for you. Some front end
+                or backend experience is required, but a desire to learn and
+                gain valuable experience in both is most important.
               </p>
               <ul className="actions">
                 <li>
@@ -73,8 +73,8 @@ const Landing = props => (
                 <h3>UI Designer</h3>
               </header>
               <p>
-                If you are a great designer with experience in designing
-                business/Saas applications we would love to talk with you. We
+                If you are a passionate designer with experience in designing
+                business/Saas applications, we would love to talk with you. We
                 will be looking to hire for this position in the coming months.
               </p>
               <ul className="actions">

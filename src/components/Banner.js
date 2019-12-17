@@ -8,11 +8,11 @@ const Banner = props => (
       </header>
       <div className="content">
         <p>
-          We are web developers, who loves coding and using
+          WE ARE WEB DEVELOPERS, WHO LOVE CODING AND USING
           <br />
-          technology to bring application's to life. Currently
+          TECHNOLOGY TO BRING APPLICATIONS TO LIFE. WE ARE CURRENTLY
           <br />
-          building a Saas application to be launched April 1st, 2020.
+          BUILDING A SAAS APPLICATION TO BE LAUNCHED APRIL 1ST, 2020.
         </p>
         <ul className="actions">
           <li>

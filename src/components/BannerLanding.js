@@ -8,10 +8,8 @@ const BannerLanding = props => (
       </header>
       <div className="content">
         <p>
-          Look below to see what we are currently hiring for.
-          <br />
-          If you dont see anything but are interested in working with us please
-          still reach out.
+          INTERESTED IN WORKING WITH US BUT DON'T SEE A GOOD MATCH FOR YOU?
+          LET'S TALK.
         </p>
       </div>
     </div>

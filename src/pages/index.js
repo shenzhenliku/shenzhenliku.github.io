@@ -82,11 +82,11 @@ class HomeIndex extends React.Component {
                 <a href="https://www.bamboohr.com/hr-glossary/human-capital-management-hcm/">
                   HCM
                 </a>{' '}
-                Saas application. Our primmary tools and languages are
+                Saas application. Our primary tools and languages are
                 JavaScript, React, Node, Postgres, GraphQL, HTML, CSS, AWS. If
                 you enjoy working on challenging problems, making a meaningful
-                impact from day one, and working in a small fast paced
-                environment you should check out our job applications below.
+                impact from day one, and working in a small, fast-paced
+                environment, you should check out our job applications below.
               </p>
               <ul className="actions">
                 <li>
